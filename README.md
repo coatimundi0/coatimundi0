@@ -1,6 +1,6 @@
 - 👋 hiii, i’m garo martinez @coatimundi0 
 - 👀 i’m interested in creating a stable income while programming things i love.
-- 🌱 i’m currently learning how to program a visual novel through ren'py. i'd love to collaborate on that.
+- 🌱 i’m currently learning how to program a visual novel through ren'py.
 - 📫 contact me via email coatimundi0@gmail.com
 
 <!---
